@@ -64,8 +64,8 @@ For more options, see `python train_net_id(cd).py -h`.
 `python train_net_id.py` and `python train_net_cd.py` have **no** different training settings.
 
 #### 🚩 Important: Getting the Results
-copy the table in `results.txt` and run the following command: `python get_results.py` to get the results like our results in table.
-
+copy the table from `output/log.txt` to `results.txt` and run the following command: `python get_results.py` to get the results like our results in table.
+**what table?**: a example has already shown in `results.txt`.
 #### Analysis
 
 To analyze the performance of MARIS, you can use the following command:
