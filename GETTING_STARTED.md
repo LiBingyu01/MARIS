@@ -61,9 +61,10 @@ python train_net_cd.py \
 For more options, see `python train_net_id(cd).py -h`.
 
 #### NOTE
-**python train_net_id.py** and **python train_net_cd.py** have **no** different training settings.
+`python train_net_id.py` and `python train_net_cd.py` have **no** different training settings.
 
-
+#### 🚩 Important: Getting the Results
+copy the table in `results.txt` and run the following command: `python get_results.py` to get the results like our results in table.
 
 #### Analysis
 
