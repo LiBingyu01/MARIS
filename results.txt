@@ -1,0 +1,117 @@
+| category                        | AP     | AP50   | AP75   |
+|:--------------------------------|:-------|:-------|:-------|
+| Diver                           | 51.336 | 70.841 | 62.018 |
+| Swimmer                         | 84.496 | 96.958 | 92.444 |
+| Geoduck                         | 27.842 | 40.424 | 27.272 |
+| Linckia Laevigata               | 78.042 | 87.102 | 82.415 |
+| Electric Ray                    | 30.374 | 31.143 | 30.754 |
+| Great White Shark               | 87.793 | 90.266 | 90.266 |
+| Whale Shark                     | 88.459 | 96.473 | 96.473 |
+| Hammerhead Shark                | 86.739 | 90.280 | 90.280 |
+| Thresher Shark                  | 87.451 | 96.137 | 96.137 |
+| Sea Dragon                      | 67.329 | 82.847 | 75.677 |
+| Hippocampus                     | 46.655 | 63.497 | 55.945 |
+| Moray Eel                       | 76.301 | 88.053 | 79.934 |
+| Lionfish                        | 76.078 | 96.972 | 94.004 |
+| Trumpetfish                     | 73.104 | 90.235 | 89.400 |
+| Flounder                        | 16.986 | 18.603 | 18.312 |
+| Frogfish                        | 44.703 | 51.425 | 48.263 |
+| Sailfish                        | 88.395 | 95.390 | 93.638 |
+| Enoplosus Armatus               | 12.727 | 15.602 | 13.515 |
+| Pseudanthias Pleurotaenia       | 72.329 | 77.176 | 77.176 |
+| Atlantic Spadefish              | 80.508 | 85.138 | 80.589 |
+| Spotted Drum                    | 64.171 | 71.672 | 67.397 |
+| Threespot Angelfish             | 18.486 | 18.940 | 18.895 |
+| Chromis Dimidiata               | 19.927 | 22.350 | 22.310 |
+| Redsea Bannerfish               | 55.002 | 60.313 | 58.716 |
+| Heniochus Varius                | 1.708  | 1.819  | 1.819  |
+| Maldives Damselfish             | 5.302  | 7.213  | 6.822  |
+| Scissortail Sergeant            | 12.796 | 17.425 | 15.700 |
+| Fire Goby                       | 60.430 | 66.941 | 66.915 |
+| Porcupinefish                   | 69.431 | 74.666 | 74.666 |
+| Yellow Boxfish                  | 79.588 | 87.369 | 87.369 |
+| Blackspotted Puffer             | 31.368 | 33.740 | 33.740 |
+| Blue Parrotfish                 | 88.129 | 88.777 | 88.777 |
+| Pomacentrus Sulfureus           | 1.027  | 1.185  | 1.124  |
+| Lunar Fusilier                  | 0.599  | 0.760  | 0.716  |
+| Ocellaris Clownfish             | 65.025 | 78.891 | 75.909 |
+| Cinnamon Clownfish              | 21.288 | 23.366 | 23.052 |
+| Pink Anemonefish                | 63.236 | 74.947 | 72.582 |
+| Orange Skunk Clownfish          | 28.321 | 36.737 | 34.181 |
+| Giant Wrasse                    | 65.950 | 66.506 | 66.506 |
+| Blue-spotted Wrasse             | 50.252 | 54.314 | 53.664 |
+| Slingjaw Wrasse                 | 31.227 | 32.478 | 32.478 |
+| Red-breasted Wrasse             | 28.980 | 30.936 | 30.936 |
+| Peacock Grouper                 | 8.669  | 8.829  | 8.829  |
+| Redmouth Grouper                | 8.052  | 8.076  | 8.076  |
+| Humpback Grouper                | 6.092  | 6.420  | 6.420  |
+| Coral Hind                      | 25.245 | 25.853 | 25.853 |
+| Porkfish                        | 81.485 | 84.918 | 82.818 |
+| Anyperodon Leucogrammicus       | 7.341  | 8.042  | 8.042  |
+| Orange-band Surgeonfish         | 19.665 | 20.024 | 20.024 |
+| Convict Surgeonfish             | 32.677 | 34.628 | 34.544 |
+| Sohal Surgeonfish               | 41.384 | 42.068 | 42.068 |
+| Powder Blue Tang                | 31.179 | 31.954 | 31.954 |
+| Whitecheek Surgeonfish          | 22.870 | 23.066 | 23.066 |
+| Bluecheek Butterflyfish         | 46.538 | 49.064 | 47.058 |
+| Blacktail Butterflyfish         | 19.714 | 22.163 | 20.725 |
+| Raccoon Butterflyfish           | 34.472 | 37.246 | 37.246 |
+| Threadfin Butterflyfish         | 24.436 | 25.382 | 25.375 |
+| Eritrean Butterflyfish          | 80.278 | 84.049 | 84.049 |
+| Pyramid Butterflyfish           | 9.930  | 10.198 | 10.198 |
+| Copperband Butterflyfish        | 62.744 | 64.310 | 63.819 |
+| Giant Clams                     | 0.012  | 0.021  | 0.021  |
+| Abalone                         | 13.633 | 17.754 | 16.126 |
+| Queen Conch                     | 34.360 | 42.524 | 39.787 |
+| Nautilus                        | 96.284 | 98.518 | 98.518 |
+| Triton's Trumpet                | 27.378 | 28.687 | 28.516 |
+| Sea Slug                        | 67.505 | 71.140 | 69.392 |
+| Dumbo Octopus                   | 63.494 | 66.195 | 65.873 |
+| Blue-ringed Octopus             | 61.144 | 86.534 | 70.273 |
+| Moon Jellyfish                  | 68.629 | 88.727 | 73.831 |
+| Fried Egg Jellyfish             | 57.362 | 67.461 | 67.433 |
+| Fan Coral                       | 84.789 | 94.382 | 89.920 |
+| Elkhorn Coral                   | 71.655 | 97.278 | 81.880 |
+| Brain Coral                     | 4.716  | 6.733  | 6.733  |
+| Sea Urchin                      | 12.021 | 17.149 | 17.149 |
+| Oreaster Reticulatus            | 68.710 | 73.985 | 73.963 |
+| Protoreaster Nodosus            | 18.725 | 20.579 | 19.869 |
+| Sperm Whale                     | 66.595 | 71.945 | 68.190 |
+| Humpback Whale                  | 70.421 | 79.127 | 70.120 |
+| Seal                            | 55.651 | 61.048 | 61.048 |
+| Manatee                         | 35.477 | 40.466 | 36.954 |
+| Sea Lion                        | 75.333 | 83.748 | 78.434 |
+| Dolphin                         | 81.038 | 92.068 | 85.595 |
+| Walrus                          | 27.857 | 31.025 | 29.108 |
+| Dugong                          | 41.032 | 42.955 | 42.167 |
+| Turtle                          | 94.727 | 99.303 | 98.344 |
+| Snake                           | 55.466 | 87.433 | 59.742 |
+| Homarus                         | 4.061  | 5.750  | 4.537  |
+| Hermit Crab                     | 41.547 | 55.599 | 47.943 |
+| Cancer Pagurus                  | 0.845  | 1.143  | 1.007  |
+| Swimming Crab                   | 65.942 | 82.854 | 81.482 |
+| Spanner Crab                    | 15.322 | 17.231 | 17.231 |
+| Penguin                         | 70.933 | 76.595 | 75.693 |
+| Sponge                          | 47.593 | 55.738 | 52.831 |
+| Plastic Bag                     | 0.895  | 1.032  | 1.032  |
+| Plastic Bottle                  | 55.094 | 67.802 | 59.884 |
+| Plastic Cup                     | 50.574 | 58.386 | 52.467 |
+| Plastic Box                     | 37.285 | 52.317 | 40.368 |
+| Glass Bottle                    | 20.434 | 33.623 | 21.338 |
+| Shipwreck                       | 67.051 | 80.366 | 80.366 |
+| Wrecked Aircraft                | 65.989 | 93.152 | 83.870 |
+| Wrecked Car                     | 55.408 | 65.769 | 65.769 |
+| Wrecked Tank                    | 77.648 | 87.172 | 81.477 |
+| Ring                            | 35.339 | 46.329 | 39.239 |
+| Boots                           | 11.716 | 14.759 | 12.770 |
+| Glasses                         | 15.856 | 29.062 | 17.176 |
+| Statue                          | 63.169 | 66.461 | 66.461 |
+| Amphora                         | 5.308  | 6.608  | 5.975  |
+| Anchor                          | 24.718 | 49.492 | 23.414 |
+| Ship's Wheel                    | 15.646 | 31.931 | 12.944 |
+| Remotely Operated Vehicle (ROV) | 66.501 | 81.250 | 73.489 |
+| Military Submarines             | 44.960 | 46.939 | 46.939 |
+| Propeller                       | 14.019 | 32.356 | 8.354  |
+| Sea Chest Grating               | 5.445  | 7.779  | 5.597  |
+| Submarine Pipeline              | 8.036  | 16.596 | 8.139  |
+| Pipeline's Anode                | 0.760  | 1.056  | 0.942  |
