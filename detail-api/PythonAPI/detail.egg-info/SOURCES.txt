@@ -1,0 +1,14 @@
+setup.py
+../common/maskApi.c
+detail/__init__.py
+detail/_mask.c
+detail/bboxEval.py
+detail/detaileval_cls.py
+detail/detaileval_kpt.py
+detail/instsegEval.py
+detail/mask.py
+detail/param.py
+detail.egg-info/PKG-INFO
+detail.egg-info/SOURCES.txt
+detail.egg-info/dependency_links.txt
+detail.egg-info/top_level.txt
