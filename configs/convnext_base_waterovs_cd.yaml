@@ -1,0 +1,32 @@
+_BASE_: ./maskformer2_R50_bs16_50ep.yaml
+MODEL:
+  META_ARCHITECTURE: "MARIS"
+  SEM_SEG_HEAD:
+    NAME: "MARISHead"
+    NUM_CLASSES: 133
+  # backbone part.
+  BACKBONE:
+    NAME: "CLIP"
+  WEIGHTS: ""
+  PIXEL_MEAN: [122.7709383, 116.7460125, 104.09373615]
+  PIXEL_STD: [68.5005327, 66.6321579, 70.32316305]
+  MARIS:
+    CLIP_MODEL_NAME: "convnext_base_w_320"
+    CLIP_PRETRAINED_WEIGHTS: "./pretrained/convnext_b.bin"
+    EMBED_DIM: 640
+    GEOMETRIC_ENSEMBLE_ALPHA: 0.4
+    GEOMETRIC_ENSEMBLE_BETA: 0.8
+  MASK_FORMER:
+    TEST:
+      SEMANTIC_ON: False
+      INSTANCE_ON: True
+      PANOPTIC_ON: False
+      OBJECT_MASK_THRESHOLD: 0.0
+
+INPUT:
+  DATASET_MAPPER_NAME: "coco_panoptic_lsj" # coco_instance_lsj
+DATASETS:
+  TRAIN: ("coco_2017_train_panoptic",) # openvocab_waterovs_train
+  TEST: ("openvocab_waterovs_val",)
+
+OUTPUT_DIR: "maris_output"
