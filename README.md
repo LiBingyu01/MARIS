@@ -12,7 +12,7 @@
 
 ## 🚩 TO DO​
 - [ ] release the trained weight.
-- [ ] submit the open-sourced dataset in huggingface. (already in Baidu Netdisk [OVSISBench](https://pan.baidu.com/s/1eXPwAbXRIecuy0-ZR6u0-Q?pwd=USTC) )
+- [ ] submit the open-sourced dataset in huggingface. (already in Baidu Netdisk [MARIS](https://pan.baidu.com/s/1XcpDFIWixPj6vxWiHx5DtA?pwd=USTC) )
 
 
 ## 🌟 Introduction
