@@ -62,3 +62,12 @@ For more options, see `python train_net_id(cd).py -h`.
 
 #### NOTE
 **python train_net_id.py** and **python train_net_cd.py** have **no** different training settings.
+
+
+
+#### Analysis
+
+To analyze the performance of MARIS, you can use the following command:
+```
+  sh KEY_flop_analy.sh
+```
