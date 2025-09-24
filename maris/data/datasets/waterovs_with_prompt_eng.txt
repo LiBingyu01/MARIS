@@ -1,0 +1,160 @@
+1:Diver
+2:Swimmer
+3:Human & Biology
+4:Human & Object
+5:Manta ray
+6:Electric ray
+7:Sawfish
+8:Bullhead shark
+9:Great white shark
+10:Whale shark
+11:Hammerhead shark
+12:Thresher shark
+13:Sea dragon
+14:Hippocampus
+15:Moray eel
+16:Orbicular batfish
+17:Lionfish
+18:Trumpetfish
+19:Flounder
+20:Frogfish
+21:Sailfish
+22:Enoplosus armatus
+23:Pseudanthias pleurotaenia
+24:Mola
+25:Moorish idol
+26:Bicolor angelfish
+27:Atlantic spadefish
+28:Spotted drum
+29:Threespot angelfish
+30:Chromis dimidiata
+31:Redsea bannerfish
+32:Heniochus varius
+33:Maldives damselfish
+34:Scissortail sergeant
+35:Fire goby
+36:Twin-spot goby
+37:Porcupinefish
+38:Yellow boxfish
+39:Blackspotted puffer
+40:Blue parrotfish
+41:Stoplight parrotfish
+42:Pomacentrus sulfureus
+43:Lunar fusilier
+44:Ocellaris clownfish
+45:Cinnamon clownfish
+46:Red Sea clownfish
+47:Pink anemonefish
+48:Orange skunk clownfish
+49:Giant wrasse
+50:Spotted wrasse
+51:Anampses twistii
+52:Blue-spotted wrasse
+53:Slingjaw wrasse
+54:Red-breasted wrasse
+55:Peacock grouper
+56:Potato grouper
+57:Graysby
+58:Redmouth grouper
+59:Humpback grouper
+60:Coral hind
+61:Porkfish
+62:Anyperodon leucogrammicus
+63:Whitespotted surgeonfish
+64:Orange-band surgeonfish
+65:Convict surgeonfish
+66:Sohal surgeonfish
+67:Regal blue tang
+68:Lined surgeonfish
+69:Achilles tang
+70:Powder blue tang
+71:Whitecheek surgeonfish
+72:Saddle butterflyfish
+73:Mirror butterflyfish
+74:Bluecheek butterflyfish
+75:Blacktail butterflyfish
+76:Raccoon butterflyfish
+77:Threadfin butterflyfish
+78:Eritrean butterflyfish
+79:Pyramid butterflyfish
+80:Copperband butterflyfish
+81:Giant clams
+82:Scallop
+83:Abalone
+84:Queen conch
+85:Nautilus
+86:Triton's trumpet
+87:Sea slug
+88:Dumbo octopus
+89:Blue-ringed octopus
+90:Common octopus
+91:Squid
+92:Cuttlefish
+93:Sea anemone
+94:Lion's mane jellyfish
+95:Moon jellyfish
+96:Fried egg jellyfish
+97:Fan coral
+98:Elkhorn coral
+99:Brain coral
+100:Sea urchin
+101:Sea cucumber
+102:Crinoid
+103:Oreaster reticulatus
+104:Protoreaster nodosus
+105:Killer whale
+106:Sperm whale
+107:Humpback whale
+108:Seal
+109:Manatee
+110:Sea lion
+111:Dolphin
+112:Walrus
+113:Dugong
+114:Turtle
+115:Snake
+116:Homarus
+117:Spiny lobster
+118:Common prawn
+119:Mantis shrimp
+120:King crab
+121:Hermit crab
+122:Cancer pagurus
+123:Swimming crab
+124:Spanner crab
+125:Penguin
+126:Sponge
+127:Geoduck
+128:Linckia laevigata
+129:Plastic bag
+130:Plastic bottle
+131:Plastic cup
+132:Plastic box
+133:Glass bottle
+134:Mask
+135:Tyre
+136:Can
+137:Shipwreck
+138:Wrecked aircraft
+139:Wrecked car
+140:Wrecked tank
+141:Gun
+142:Phone
+143:Ring
+144:Boots
+145:Glasses
+146:Coin
+147:Statue
+148:Amphora
+149:Anchor
+150:Ship's Wheel
+151:AUV
+152:ROV
+153:Military submarines
+154:Personal submarines
+155:Ship's anode
+156:Over board valve
+157:Propeller
+158:Sea chest grating
+159:Submarine pipeline
+160:Pipeline's anode
