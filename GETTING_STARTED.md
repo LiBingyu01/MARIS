@@ -7,7 +7,9 @@ Download our **modified** [Detectron2](https://pan.baidu.com/s/1EpIkSA9mlndVW5lg
 
 ### Pretrained Weight
 [convnext_base](https://huggingface.co/laion/CLIP-convnext_base_w_320-laion_aesthetic-s13B-b82K-augreg/tree/main)
+
 [convnext_large](https://huggingface.co/laion/CLIP-convnext_large_d_320.laion2B-s29B-b131K-ft-soup/tree/main)
+
 [depthanything](https://github.com/DepthAnything/Depth-Anything-V2)
 
 Put these weights into ```MARIS/pretrained```
