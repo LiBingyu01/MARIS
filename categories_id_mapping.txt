@@ -1,8 +1,8 @@
 1:Diver
 2:Swimmer
 3:Human & Biology
-4:Human & Object
-5:Manta ray
+4:Geoduck
+5:Linckia Laevigata
 6:Electric ray
 7:Sawfish
 8:Bullhead shark
@@ -124,37 +124,37 @@
 124:Spanner crab
 125:Penguin
 126:Sponge
-127:Geoduck
-128:Linckia laevigata
-129:Plastic bag
-130:Plastic bottle
-131:Plastic cup
-132:Plastic box
-133:Glass bottle
-134:Mask
-135:Tyre
-136:Can
-137:Shipwreck
-138:Wrecked aircraft
-139:Wrecked car
-140:Wrecked tank
-141:Gun
-142:Phone
-143:Ring
-144:Boots
-145:Glasses
-146:Coin
-147:Statue
-148:Amphora
-149:Anchor
-150:Ship's Wheel
-151:AUV
-152:ROV
-153:Military submarines
-154:Personal submarines
-155:Ship's anode
-156:Over board valve
-157:Propeller
-158:Sea chest grating
-159:Submarine pipeline
-160:Pipeline's anode
+127:Plastic bag
+128:Plastic bottle
+129:Plastic cup
+130:Plastic box
+131:Glass bottle
+132:Mask
+133:Tyre
+134:Can
+135:Shipwreck
+136:Wrecked aircraft
+137:Wrecked car
+138:Wrecked tank
+139:Gun
+140:Phone
+141:Ring
+142:Boots
+143:Glasses
+144:Coin
+145:Statue
+146:Amphora
+147:Anchor
+148:Ship's Wheel
+149:AUV
+150:ROV
+151:Military submarines
+152:Personal submarines
+153:Ship's anode
+154:Over board valve
+155:Propeller
+156:Sea chest grating
+157:Submarine pipeline
+158:Pipeline's anode
+
+
