@@ -33,9 +33,11 @@ def _get_waterovs_instances_meta():
     # Mapping from the incontiguous ADE category id to an id in [0, 99]
     thing_dataset_id_to_contiguous_id = {"{:03d}".format(k): i for i, k in enumerate(thing_ids)}
     thing_classes = [k["name"] for k in WATEROVS_CATEGORIES]
+    thing_colors = [k["color"] for k in WATEROVS_CATEGORIES if k["isthing"] == 1]
     ret = {
         "thing_dataset_id_to_contiguous_id": thing_dataset_id_to_contiguous_id,
         "thing_classes": thing_classes,
+        "thing_colors": thing_colors,
     }
     return ret
 
