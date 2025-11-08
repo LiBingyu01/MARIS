@@ -49,7 +49,12 @@ See [Getting Started with  MARIS](GETTING_STARTED.md).
 If you use MARIS in your research, please use the following BibTeX entry.
 
 ```BibTeX
-
+@article{li2025maris,
+  title={MARIS: Marine Open-Vocabulary Instance Segmentation with Geometric Enhancement and Semantic Alignment},
+  author={Li, Bingyu and Wang, Feiyu and Zhang, Da and Zhao, Zhiyuan and Gao, Junyu and Li, Xuelong},
+  journal={arXiv preprint arXiv:2510.15398},
+  year={2025}
+}
 ```
 
 ## Acknowledgement
