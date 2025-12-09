@@ -45,7 +45,7 @@ python -m pip install -e detectron2
 pip install git+https://github.com/cocodataset/panopticapi.git
 pip install git+https://github.com/mcordts/cityscapesScripts.git
 pip install -r requirements.txt
-cd maris/modeling/pixel_decoder/ops
+cd maris/modeling/GPEM/ops
 sh make.sh
 cd ../../../..
 ```
