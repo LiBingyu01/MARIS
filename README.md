@@ -5,7 +5,7 @@
 
 **The first attempt to Marine Open-Vocabulary Instance Segmentation.**
 
-[Paper](https://arxiv.org/abs/2510.15398) &nbsp;&nbsp;&nbsp;&nbsp; [Open-sourced Datasets](https://pan.baidu.com/s/1XcpDFIWixPj6vxWiHx5DtA?pwd=USTC) &nbsp;&nbsp;&nbsp;&nbsp; [Pretrained Weight](https://pan.baidu.com/s/1FYF5kyrKbDPMboSs7aVzQw?pwd=USTC) 
+[Paper](https://arxiv.org/abs/2510.15398) &nbsp;&nbsp;&nbsp;&nbsp; [Open-sourced Datasets](https://pan.baidu.com/s/1XcpDFIWixPj6vxWiHx5DtA?pwd=USTC) &nbsp;&nbsp;&nbsp;&nbsp; [Pretrained Weight](https://pan.baidu.com/s/1FYF5kyrKbDPMboSs7aVzQw?pwd=USTC) &nbsp;&nbsp;&nbsp;&nbsp; [Pretrained Weight (hugging face)](https://huggingface.co/datasets/kkk2026/WaterOVS) 
 
 </div>
 
