@@ -15,11 +15,11 @@
 
 ## 🚀 News&Updates​
 - [x] 2025/9/124: init repository.
+- [x] release the trained weight.
+- [x] submit the open-sourced dataset in huggingface. (already in Baidu Netdisk [MARIS](https://pan.baidu.com/s/1XcpDFIWixPj6vxWiHx5DtA?pwd=USTC) )
 
-## 🚩 TO DO​
-- [ ] release the trained weight.
-- [ ] submit the open-sourced dataset in huggingface. (already in Baidu Netdisk [MARIS](https://pan.baidu.com/s/1XcpDFIWixPj6vxWiHx5DtA?pwd=USTC) )
-
+## 🚩 Notes​
+![](assets/error.png)
 
 ## 🌟 Introduction
 
